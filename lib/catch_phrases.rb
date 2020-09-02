@@ -14,3 +14,8 @@ def link
   puts $update
 end
 
+def all_phrases
+  puts $phrase
+  puts $status
+  puts $update
+end
