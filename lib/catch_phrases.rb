@@ -1,4 +1,4 @@
-
+update = "It's Dangerous To Go Alone! Take This."
 def mario
   phrase = "It's-a me, Mario!"
   puts phrase
@@ -10,7 +10,6 @@ def toadstool
 end
 
 def link
-  
   puts update
 end
 
