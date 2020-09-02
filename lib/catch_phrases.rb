@@ -3,13 +3,13 @@ $status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 $update = "It's Dangerous To Go Alone! Take This."
 
 def mario
-  puts phrase
+  puts $phrase
 end
 
 def toadstool
-  puts status
+  puts $status
 end
 
 def link
-  puts update
+  puts $update
 end
